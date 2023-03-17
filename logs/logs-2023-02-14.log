@@ -1,0 +1,204 @@
+ INFO - 2023-02-14 01:11:49,155 - server - Started server process [41660]
+ INFO - 2023-02-14 01:11:49,155 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:11:49,155 - main - db connection startup
+ INFO - 2023-02-14 01:11:49,253 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:11:49,253 - on - Application startup complete.
+ INFO - 2023-02-14 01:25:38,135 - server - Shutting down
+ INFO - 2023-02-14 01:25:38,237 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 01:25:38,237 - main - db connection stutdown
+ INFO - 2023-02-14 01:25:38,237 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 01:25:38,237 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 01:25:38,237 - on - Application shutdown complete.
+ INFO - 2023-02-14 01:25:38,238 - server - Finished server process [41660]
+ INFO - 2023-02-14 01:25:38,519 - server - Started server process [41812]
+ INFO - 2023-02-14 01:25:38,519 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:25:38,519 - main - db connection startup
+ INFO - 2023-02-14 01:25:38,622 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:25:38,622 - on - Application startup complete.
+ INFO - 2023-02-14 01:46:29,731 - server - Shutting down
+ INFO - 2023-02-14 01:46:29,832 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 01:46:29,833 - main - db connection stutdown
+ INFO - 2023-02-14 01:46:29,833 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 01:46:29,833 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 01:46:29,833 - on - Application shutdown complete.
+ INFO - 2023-02-14 01:46:29,833 - server - Finished server process [41812]
+ INFO - 2023-02-14 01:46:30,131 - server - Started server process [42041]
+ INFO - 2023-02-14 01:46:30,131 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:46:30,131 - main - db connection startup
+ INFO - 2023-02-14 01:46:30,244 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:46:30,244 - on - Application startup complete.
+ INFO - 2023-02-14 01:47:07,844 - server - Shutting down
+ INFO - 2023-02-14 01:47:07,966 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 01:47:07,966 - main - db connection stutdown
+ INFO - 2023-02-14 01:47:07,967 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 01:47:07,967 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 01:47:07,967 - on - Application shutdown complete.
+ INFO - 2023-02-14 01:47:07,968 - server - Finished server process [42041]
+ INFO - 2023-02-14 01:47:08,277 - server - Started server process [42070]
+ INFO - 2023-02-14 01:47:08,277 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:47:08,277 - main - db connection startup
+ INFO - 2023-02-14 01:47:08,379 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:47:08,380 - on - Application startup complete.
+ INFO - 2023-02-14 01:47:40,613 - server - Shutting down
+ INFO - 2023-02-14 01:47:40,713 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 01:47:40,714 - main - db connection stutdown
+ INFO - 2023-02-14 01:47:40,714 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 01:47:40,714 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 01:47:40,714 - on - Application shutdown complete.
+ INFO - 2023-02-14 01:47:40,715 - server - Finished server process [42070]
+ INFO - 2023-02-14 01:47:41,011 - server - Started server process [42087]
+ INFO - 2023-02-14 01:47:41,011 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:47:41,013 - main - db connection startup
+ INFO - 2023-02-14 01:47:41,084 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:47:41,084 - on - Application startup complete.
+ INFO - 2023-02-14 01:47:47,254 - server - Shutting down
+ INFO - 2023-02-14 01:47:47,355 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 01:47:47,355 - main - db connection stutdown
+ INFO - 2023-02-14 01:47:47,355 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 01:47:47,355 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 01:47:47,355 - on - Application shutdown complete.
+ INFO - 2023-02-14 01:47:47,355 - server - Finished server process [42087]
+ INFO - 2023-02-14 01:47:47,624 - server - Started server process [42094]
+ INFO - 2023-02-14 01:47:47,624 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:47:47,624 - main - db connection startup
+ INFO - 2023-02-14 01:47:47,732 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:47:47,738 - on - Application startup complete.
+ INFO - 2023-02-14 01:47:55,528 - server - Shutting down
+ INFO - 2023-02-14 01:47:55,630 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 01:47:55,630 - main - db connection stutdown
+ INFO - 2023-02-14 01:47:55,630 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 01:47:55,630 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 01:47:55,631 - on - Application shutdown complete.
+ INFO - 2023-02-14 01:47:55,631 - server - Finished server process [42094]
+ INFO - 2023-02-14 01:47:55,910 - server - Started server process [42101]
+ INFO - 2023-02-14 01:47:55,910 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:47:55,910 - main - db connection startup
+ INFO - 2023-02-14 01:47:55,976 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:47:55,977 - on - Application startup complete.
+ INFO - 2023-02-14 01:48:13,558 - server - Shutting down
+ INFO - 2023-02-14 01:48:13,659 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 01:48:13,660 - main - db connection stutdown
+ INFO - 2023-02-14 01:48:13,660 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 01:48:13,660 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 01:48:13,661 - on - Application shutdown complete.
+ INFO - 2023-02-14 01:48:13,661 - server - Finished server process [42101]
+ INFO - 2023-02-14 01:48:13,976 - server - Started server process [42117]
+ INFO - 2023-02-14 01:48:13,976 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:48:13,976 - main - db connection startup
+ INFO - 2023-02-14 01:48:14,043 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:48:14,050 - on - Application startup complete.
+ INFO - 2023-02-14 01:48:27,922 - server - Shutting down
+ INFO - 2023-02-14 01:48:28,024 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 01:48:28,025 - main - db connection stutdown
+ INFO - 2023-02-14 01:48:28,025 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 01:48:28,026 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 01:48:28,027 - on - Application shutdown complete.
+ INFO - 2023-02-14 01:48:28,027 - server - Finished server process [42117]
+ INFO - 2023-02-14 01:48:28,336 - server - Started server process [42127]
+ INFO - 2023-02-14 01:48:28,336 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:48:28,336 - main - db connection startup
+ INFO - 2023-02-14 01:48:28,390 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:48:28,390 - on - Application startup complete.
+ INFO - 2023-02-14 01:49:44,670 - server - Shutting down
+ INFO - 2023-02-14 01:49:44,771 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 01:49:44,772 - main - db connection stutdown
+ INFO - 2023-02-14 01:49:44,772 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 01:49:44,772 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 01:49:44,772 - on - Application shutdown complete.
+ INFO - 2023-02-14 01:49:44,772 - server - Finished server process [42127]
+ INFO - 2023-02-14 01:49:45,070 - server - Started server process [42159]
+ INFO - 2023-02-14 01:49:45,070 - on - Waiting for application startup.
+ INFO - 2023-02-14 01:49:45,075 - main - db connection startup
+ INFO - 2023-02-14 01:49:45,173 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 01:49:45,173 - on - Application startup complete.
+ INFO - 2023-02-14 02:02:54,187 - server - Shutting down
+ INFO - 2023-02-14 02:02:54,288 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 02:02:54,289 - main - db connection stutdown
+ INFO - 2023-02-14 02:02:54,289 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 02:02:54,289 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 02:02:54,289 - on - Application shutdown complete.
+ INFO - 2023-02-14 02:02:54,289 - server - Finished server process [42159]
+ INFO - 2023-02-14 02:02:54,594 - server - Started server process [42277]
+ INFO - 2023-02-14 02:02:54,594 - on - Waiting for application startup.
+ INFO - 2023-02-14 02:02:54,594 - main - db connection startup
+ INFO - 2023-02-14 02:02:54,720 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 02:02:54,725 - on - Application startup complete.
+ INFO - 2023-02-14 02:03:58,619 - server - Shutting down
+ INFO - 2023-02-14 02:03:58,720 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 02:03:58,721 - main - db connection stutdown
+ INFO - 2023-02-14 02:03:58,721 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 02:03:58,721 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 02:03:58,721 - on - Application shutdown complete.
+ INFO - 2023-02-14 02:03:58,721 - server - Finished server process [42277]
+ INFO - 2023-02-14 02:03:59,022 - server - Started server process [42298]
+ INFO - 2023-02-14 02:03:59,022 - on - Waiting for application startup.
+ INFO - 2023-02-14 02:03:59,022 - main - db connection startup
+ INFO - 2023-02-14 02:03:59,123 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 02:03:59,123 - on - Application startup complete.
+ INFO - 2023-02-14 02:04:07,113 - server - Shutting down
+ INFO - 2023-02-14 02:04:07,215 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 02:04:07,215 - main - db connection stutdown
+ INFO - 2023-02-14 02:04:07,215 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 02:04:07,215 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 02:04:07,215 - on - Application shutdown complete.
+ INFO - 2023-02-14 02:04:07,216 - server - Finished server process [42298]
+ INFO - 2023-02-14 02:04:07,488 - server - Started server process [42303]
+ INFO - 2023-02-14 02:04:07,488 - on - Waiting for application startup.
+ INFO - 2023-02-14 02:04:07,489 - main - db connection startup
+ INFO - 2023-02-14 02:04:07,534 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 02:04:07,534 - on - Application startup complete.
+ INFO - 2023-02-14 02:05:13,670 - server - Shutting down
+ INFO - 2023-02-14 02:05:13,771 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 02:05:13,771 - main - db connection stutdown
+ INFO - 2023-02-14 02:05:13,771 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 02:05:13,772 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 02:05:13,772 - on - Application shutdown complete.
+ INFO - 2023-02-14 02:05:13,772 - server - Finished server process [42303]
+ INFO - 2023-02-14 02:05:14,044 - server - Started server process [42317]
+ INFO - 2023-02-14 02:05:14,044 - on - Waiting for application startup.
+ INFO - 2023-02-14 02:05:14,048 - main - db connection startup
+ INFO - 2023-02-14 02:05:14,163 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 02:05:14,164 - on - Application startup complete.
+ INFO - 2023-02-14 02:05:21,039 - server - Shutting down
+ INFO - 2023-02-14 02:05:21,141 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 02:05:21,143 - main - db connection stutdown
+ INFO - 2023-02-14 02:05:21,144 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 02:05:21,145 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 02:05:21,145 - on - Application shutdown complete.
+ INFO - 2023-02-14 02:05:21,145 - server - Finished server process [42317]
+ INFO - 2023-02-14 02:05:21,442 - server - Started server process [42323]
+ INFO - 2023-02-14 02:05:21,442 - on - Waiting for application startup.
+ INFO - 2023-02-14 02:05:21,442 - main - db connection startup
+ INFO - 2023-02-14 02:05:21,512 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 02:05:21,527 - on - Application startup complete.
+ INFO - 2023-02-14 02:05:41,842 - server - Shutting down
+ INFO - 2023-02-14 02:05:41,943 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 02:05:41,943 - main - db connection stutdown
+ INFO - 2023-02-14 02:05:41,944 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 02:05:41,944 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 02:05:41,944 - on - Application shutdown complete.
+ INFO - 2023-02-14 02:05:41,944 - server - Finished server process [42323]
+ INFO - 2023-02-14 02:05:42,247 - server - Started server process [42338]
+ INFO - 2023-02-14 02:05:42,247 - on - Waiting for application startup.
+ INFO - 2023-02-14 02:05:42,247 - main - db connection startup
+ INFO - 2023-02-14 02:05:42,307 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 02:05:42,307 - on - Application startup complete.
+ INFO - 2023-02-14 02:20:40,471 - server - Shutting down
+ INFO - 2023-02-14 02:20:40,573 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 02:20:40,573 - main - db connection stutdown
+ INFO - 2023-02-14 02:20:40,573 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 02:20:40,573 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 02:20:40,573 - on - Application shutdown complete.
+ INFO - 2023-02-14 02:20:40,573 - server - Finished server process [42338]
+ INFO - 2023-02-14 02:20:40,863 - server - Started server process [42472]
+ INFO - 2023-02-14 02:20:40,863 - on - Waiting for application startup.
+ INFO - 2023-02-14 02:20:40,863 - main - db connection startup
+ INFO - 2023-02-14 02:20:40,954 - mongo - Connected to MongoDB -  DEV environment!
+ INFO - 2023-02-14 02:20:40,954 - on - Application startup complete.
+ INFO - 2023-02-14 02:21:26,533 - server - Shutting down
+ INFO - 2023-02-14 02:21:26,634 - on - Waiting for application shutdown.
+ INFO - 2023-02-14 02:21:26,635 - main - db connection stutdown
+ INFO - 2023-02-14 02:21:26,635 - mongo - Closing connection to MongoDB
+ INFO - 2023-02-14 02:21:26,635 - mongo - MongoDB connection closed
+ INFO - 2023-02-14 02:21:26,635 - on - Application shutdown complete.
+ INFO - 2023-02-14 02:21:26,635 - server - Finished server process [42472]
