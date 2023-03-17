@@ -1,4 +1,4 @@
-# Strategy Manager 
+# Order Service 
 
 
 
@@ -47,16 +47,16 @@ pip install -r /path/to/requirements.txt
 ## Start Server
 ```
  - Go to Console and type below command
- - uvicorn main:app --reload
+ - uvicorn main:app --reload --port=8003
 ```
 
 ## Open URL in Browser
 ```
-http://localhost:8000/docs
+http://localhost:8003/docs
 ```
 
 ## Sample API URL
 ```
-http://localhost:8000/api/v1/hello
+http://localhost:8003/api/v1/hello
 ```
 
